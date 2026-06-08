@@ -1,5 +1,3 @@
-Here is a clear, structured task description you can hand directly to your attachés.
-------------------------------
 ## 📋 Task Assignment: Build a Responsive Hero Section with Navigation## 🎯 Objective
 Create a clean, modern, and fully responsive Hero Section with a functional Navigation Bar from scratch using HTML, CSS, and vanilla JavaScript.
 ## 🛠️ Technical Requirements
@@ -20,6 +18,3 @@ Create a clean, modern, and fully responsive Hero Section with a functional Navi
 
 ## ⏱️ Expected Deliverable
 A single organized folder containing your index.html, style.css, and script.js files, or a unified index.html file containing all code sections. The code must be clean, commented, and well-indented.
-------------------------------
-Would you like me to add a grading rubric for evaluating their code quality, set a recommended time limit for the task, or include bonus challenges for advanced attachés?
-
